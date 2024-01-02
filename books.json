@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Rich Dad , Poor Dad",
+        "author": "Mark Ferson",
+        "genre": "14",
+        "year": 2023
+    },
+    {
+        "id": 2,
+        "title": "Love is a beautiful thing",
+        "author": "Tylor Samz",
+        "genre": "12",
+        "year": 2022
+    },
+    {
+        "id": 3,
+        "title": "Pretty Face",
+        "author": "Mhose M",
+        "genre": "1",
+        "year": 2023
+    }
+]   
+
